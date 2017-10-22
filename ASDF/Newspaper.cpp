@@ -1,0 +1,2 @@
+#include "Newspaper.h"
+
