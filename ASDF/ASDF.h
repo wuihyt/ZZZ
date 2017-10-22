@@ -9,7 +9,7 @@ class ASDF : public QMainWindow
 
 public:
 	ASDF(QWidget *parent = Q_NULLPTR);
-
+asdfasdf
 private:
 	Ui::ASDFClass ui;
 };
