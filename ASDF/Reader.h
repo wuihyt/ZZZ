@@ -10,6 +10,6 @@ public:
 
 	void receiveNewspaper(const QString & name)
 	{
-		qDebug() << "C3: " << name;
+		qDebug() << "C4: " << name;
 	}
 };
